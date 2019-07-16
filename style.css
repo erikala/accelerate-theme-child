@@ -184,3 +184,11 @@ div.case-study-archive-images img {
 }
 
 /* About page */
+
+#hero-text h3 {
+	color: #fff;
+	font-weight:bold;
+	font-size: 2em;
+	line-height: 1.5;
+	margin: 0 2%;
+}
