@@ -192,3 +192,15 @@ div.case-study-archive-images img {
 	line-height: 1.5;
 	margin: 0 2%;
 }
+
+/* Contact page */
+
+.nf-form-content button, .nf-form-content input[type="button"], .nf-form-content input[type="submit"] {
+  font: 700 1em/1 'Montserrat', 'OpenSans', Arial, sans-serif;
+  color: #fff;
+  background-color: #45ac9d;
+  border: none;
+  padding: 1em 3.75em;
+  text-align: center;
+  float: right;
+}
