@@ -60,7 +60,7 @@ Text Domain:  accelerate-theme-child
 
 .individual-featured-work {
   float: left;
-  padding-right: 12px;
+  padding-right: 15px;
   padding-bottom: 30px;
   text-align: center;
 }
@@ -223,3 +223,5 @@ div.case-study-archive-images img {
 #nf-label-field-1, #nf-label-field-2, #nf-label-field-3 {
   font-size: .9em;
 }
+
+/* 404-page */
